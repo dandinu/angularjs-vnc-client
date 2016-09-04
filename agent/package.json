@@ -1,0 +1,15 @@
+{
+  "name": "agent",
+  "version": "1.0.0",
+  "description": "The VNC client agent used to connect",
+  "main": "index.js",
+  "author": "dandinu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "rfb2": "0.0.11",
+    "png": "3.0.3",
+    "socket.io": "^1.0.0"
+  }
+}
